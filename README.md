@@ -54,6 +54,31 @@ Follow the instructions below to get started with DataShare:
 5. Scan the QR Code displayed on the sender device.
 6. The file will be received and saved on the receiver device.
 
+## Screenshots 📷
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 3](screenshots/screenshot3.png)
+
+## Contributing 🤝
+Contributions are always welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix:
+```bash
+   git checkout -b feature/your-feature-name
+```
+4. Make your changes and commit them:
+```bash
+   git commit -m "Add your commit message"
+```
+5. Push to the branch:
+```bash
+   git push origin feature/your-feature-name
+```
+7. Open a pull request, and describe your changes in detail.
+
+Feel free to adjust the code and file paths to match your actual project structure. Make sure to replace the screenshot file names and paths with your own screenshots.
+
 ## Support and Feedback 📧
 
 If you encounter any issues while using DataShare or have any feedback or suggestions, please reach out to the developer:
