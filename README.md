@@ -2,6 +2,7 @@
 
 DataShare is a powerful and user-friendly data sharing app built using Flutter. With DataShare, you can effortlessly share images, text, videos, and basically every other file format supported by Android. The connection is established by just scanning a QR Code on the sender device using QR Code Scanner on the receiver's end.
 
+<br>
 ## Features ✨
 
 - Share various file formats including images, text, and videos
@@ -10,6 +11,7 @@ DataShare is a powerful and user-friendly data sharing app built using Flutter. 
 - Fast and reliable data sharing
 - Cross-platform compatibility with Android devices
 
+<br>
 ## Getting Started 🚀
 
 Follow the instructions below to get started with DataShare:
@@ -45,6 +47,8 @@ Follow the instructions below to get started with DataShare:
    flutter run
 ```
 
+<br>
+
 ## Usage 📲
 
 1. Open the DataShare app on the sender device.
@@ -54,10 +58,14 @@ Follow the instructions below to get started with DataShare:
 5. Scan the QR Code displayed on the sender device.
 6. The file will be received and saved on the receiver device.
 
+<br>
+
 ## Screenshots 📷
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
 ![Screenshot 3](screenshots/screenshot3.png)
+
+<br>
 
 ## Contributing 🤝
 Contributions are always welcome! If you'd like to contribute to this project, please follow these steps:
@@ -78,6 +86,8 @@ Contributions are always welcome! If you'd like to contribute to this project, p
 7. Open a pull request, and describe your changes in detail.
 
 Feel free to adjust the code and file paths to match your actual project structure. Make sure to replace the screenshot file names and paths with your own screenshots.
+
+<br>
 
 ## Support and Feedback 📧
 
