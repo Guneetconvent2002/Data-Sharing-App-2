@@ -1,4 +1,4 @@
-# QRShare - Flutter Data Sharing App 📱💫
+# QRShare - Data Sharing App 📱💫
 
 DataShare is a powerful and user-friendly data sharing app built using Flutter. With DataShare, you can effortlessly share images, text, videos, and basically every other file format supported by Android. The connection is established by just scanning a QR Code on the sender device using QR Code Scanner on the receiver's end.
 
@@ -20,7 +20,7 @@ Follow the instructions below to get started with DataShare:
 
 ### Prerequisites
 
-- Flutter SDK installed on your development environment
+- Android device or emulator running Android OS (version 5.0 or higher)
 - Android device with USB debugging enabled or an Android emulator
 
 ### Installation
@@ -31,23 +31,8 @@ Follow the instructions below to get started with DataShare:
    git clone https://github.com/your-username/DataShare.git
 ```
 
-2. Navigate to the project directory:
-
-```bash
-   cd DataShare
-```
-
-3. Install the required dependencies:
-
-```bash
-   flutter pub get
-```
-
-5. Connect your Android device or start an emulator.
-6. Run the app:
-```bash
-   flutter run
-```
+2. Open the project in Android Studio.
+3. Build and run the application on your device.
 
 <br>
 
