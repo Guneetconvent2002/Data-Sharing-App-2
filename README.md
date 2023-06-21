@@ -1,4 +1,4 @@
-# DataShare - Flutter Data Sharing App 📱💫
+# QRShare - Flutter Data Sharing App 📱💫
 
 DataShare is a powerful and user-friendly data sharing app built using Flutter. With DataShare, you can effortlessly share images, text, videos, and basically every other file format supported by Android. The connection is established by just scanning a QR Code on the sender device using QR Code Scanner on the receiver's end.
 
