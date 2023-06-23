@@ -80,7 +80,7 @@ Feel free to adjust the code and file paths to match your actual project structu
 
 If you encounter any issues while using DataShare or have any feedback or suggestions, please reach out to the developer:
 
-Developer: Guneet Singh
+Developer: Guneet Singh <br>
 Email: itsguneetsingh@gmail.com
 
 Your feedback is valuable and helps the developer in further improving the app.
