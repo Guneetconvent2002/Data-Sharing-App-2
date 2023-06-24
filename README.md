@@ -70,7 +70,7 @@ Contributions are always welcome! If you'd like to contribute to this project, p
 ```
 7. Open a pull request, and describe your changes in detail.
 
-Feel free to adjust the code and file paths to match your actual project structure. Make sure to replace the screenshot file names and paths with your own screenshots. If you just want to help with fixing existing issues, you can go the <code>Issues</code> tab and find the issues to contribute to.
+Feel free to adjust the code and file paths to match your actual project structure. Make sure to replace the screenshot file names and paths with your own screenshots. <b>If you just want to help with fixing existing issues, you can go the <code>Issues</code> tab and find the issues to contribute to. <b>
 
 <br>
 
