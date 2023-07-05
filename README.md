@@ -48,7 +48,7 @@ Follow the instructions below to get started with DataShare:
 <br>
 
 ## Screenshots 📷
-<img src="screenshots/home.png" width="20%" height="20%"> <img src="screenshots/Scan.png" width="20%" height="20%">
+<img src="screenshots/Home.png" width="20%" height="20%"> <img src="screenshots/Scan.png" width="20%" height="20%">
 
 <br>
 
